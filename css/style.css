@@ -1,0 +1,119 @@
+body{
+    min-height: 2000px;
+    
+}
+
+h2{
+    font-family:'Sacramento', cursive;
+ 
+}
+
+
+.jumbotron{
+    padding-top:5rem;
+    background-color:#F2E0F7 ;
+    background-repeat: repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+    margin: auto;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: bold;
+}
+.nk{
+    background-color:#F2E0F7 ;
+    padding-top:1.5rem;
+}
+.kh{
+    background-color:#F2E0F7;
+    padding-top:1rem;
+    padding-bottom: 1rem;
+  padding-right: 1rem;
+  padding-left: 1rem;
+font-size:80%;
+
+}  
+.container {
+    max-width: 800px;   
+  }
+  
+.pricing-header {
+    max-width: 700px;
+}
+  
+.card-deck .card {
+    min-width: 220px;
+}
+.bt{
+    background-color:#00FF40;
+    border-radius:1rem;
+}
+.bt:hover{
+    background-color:#58FA58;
+}
+.btn{
+      background-color:rgb(73, 2, 41);
+      border-radius:1rem;
+  }
+  .btn:hover{
+      background-color:#7F0A7B;
+  }
+  .card-header{
+      background-color:#F2E0F7;
+  }
+  .containter{
+      background-color:#F2E0F7;
+  }
+  .note{
+      padding-left:1rem;
+  }
+ 
+  footer{
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+footer p{
+    font-family: arial;
+    font-style: normal;
+    font-weight: bold;
+    color: azure;
+}
+.social-icons a {
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+    margin: 20px 10px;
+    border-radius: 50%;
+}
+.social-icons {
+display: flex;
+}
+.sosial-icons i,
+.social i {
+color:  #F2E0F7;
+}
+.social-icons a:hover{
+    background-color:#CDA4CC;
+    box-shadow:  #F2E0F7;
+    transition: all ease 0.5s;
+}
+
+.social-icons a:hover i,
+.social a:hover{
+      transition: all ease 0.5s;
+}
+.card-img-top{
+    width:60%;
+  
+}
+.section{
+    padding-top: 5 rem;
+}
+
+
